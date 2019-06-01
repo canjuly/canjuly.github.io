@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 269c10155db07b7d3ab1                            #生成的clientID
-  clientSecret: d9c06cf6511fabaad52b2a9230e95329cfd76bbf    #生成的clientSecret
+  clientID: 1bda4ebf329b4b997eb2                            #生成的clientID
+  clientSecret: babcb423c04c14b2fa512cb8cd543be0007452d4    #生成的clientSecret
   repo: canjuly.github.io    #仓库名称
   owner: canjuly    #github用户名
   admin: canjuly
