@@ -150,7 +150,7 @@ LS + 持续时间 = LF
 * 决策树
 1. EMV(损益期望值)是决策树的一种计算值，例如：某行动方案成功的概率是50%，收益是10，EMV=10*50%=5
 2. 算出期望值比较大小，选大的即可
-![avater](https://github.com/canjuly/canjuly.github.io/blob/master/img/post-softwareProgress/post-softwareProgress-1.png)  
+![avater](https://raw.githubusercontent.com/canjuly/canjuly.github.io/master/img/post-softwareProgress/post-softwareProgress-1.png)  
 * 风险应对的策略：回避风险、转移风险、损失控制以及自留风险
 * PERT技术完成概率:
 1. 最可能m：正常情况下的结果  
