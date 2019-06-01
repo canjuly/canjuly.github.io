@@ -64,7 +64,7 @@ tags:                               #标签
 6. 路径覆盖：使程序中所有可能的路径都能被覆盖到
 * 路径分析测试：一个程序中所含有的路径数与程序的复杂度有着直接的关系。 
 1. 控制流图：唯一入口节点，唯一出口节点  
-![avater](https://github.com/canjuly/canjuly.github.io/blob/master/img/post-bg-softwareTest/post-softwareTest-1.png)  
+![avater](https://raw.githubusercontent.com/canjuly/canjuly.github.io/master/img/post-bg-softwareTest/post-softwareTest-1.png)  
 2. 程序环路复杂度：V(G)  
 V(G) = 边数 - 节点数 + 2  
 V(G) = 判断节点 + 1  
