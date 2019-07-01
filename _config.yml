@@ -23,7 +23,7 @@ zhihu_username:     umbrellaman
 github_username:    canjuly
 # facebook_username:  unkonwn
 # jianshu_username:   unkonwn
-twitter_username:   magicgod555
+# twitter_username:   magicgod555
 
 
 
@@ -104,5 +104,9 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },
+    {
+        title: "正爸爸",
+        href: "https://tautcony.xyz/"
     }
 ]
